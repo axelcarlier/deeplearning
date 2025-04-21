@@ -1,4 +1,4 @@
-# deeplearning
+# Cours d'apprentissage profond dispensés à l'ENSEEIHT
 
 ## Introduction aux réseaux de neurones
 - TP Implémentation d'un réseau de neurones avec Numpy
